@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/service-requests/move-activities/activities.sql" value="0ae088fe-eb0b-4f08-987e-2089c82bd043" />
+    <file url="file://$PROJECT_DIR$/service-requests/move-activityTemplate/activityTemplate.sql" value="0ae088fe-eb0b-4f08-987e-2089c82bd043" />
+    <file url="file://$PROJECT_DIR$/service-requests/move-plots/plots.sql" value="0ae088fe-eb0b-4f08-987e-2089c82bd043" />
+  </component>
+</project>
